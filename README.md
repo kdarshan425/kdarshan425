@@ -1,3 +1,4 @@
+<img src="dk.png" style="width:100%;height:auto;">
 <h1 align="center">Hi 👋, I'm Darshan Khope</h1>
 <h3 align="center">Experienced Full-stack developer and Junior Engineer with a demonstrated history of working in the automotive industry. Skilled in Python (Programming Language), PHP ,MySQL, HTML, CSS, JS, C++. Strong engineering professional with a BE E&Tc focused in Electronics Engineering from Pimpri Chinchwad Education Trust'S. Pimpri Chinchwad College Of Engineering. Developed some projects of web development, Have a good command on full stack development specially in backend development!</h3>
 
