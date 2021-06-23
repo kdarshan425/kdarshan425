@@ -6,7 +6,15 @@
 
 - 📫 How to reach me **kdarshan425@gmail.com**
 
-- 📄 Know about my experiences [https://kdarshan425.github.io/darshankhope/](https://kdarshan425.github.io/darshankhope/)<br><br>
+- 📄 Know about my experiences [https://kdarshan425.github.io/darshankhope/](https://kdarshan425.github.io/darshankhope/)<br><br><br>
+
+<p align="center">
+<a href="https://github.com/kdarshan425">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MasterZesty&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kdarshan425&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
